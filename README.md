@@ -7,4 +7,5 @@ Output:
 - Java_Uses_XML
 - XML_Uses_XML
 - XML_Uses_PNG
- 
+
+Contains a class diagram that can be opened with the eclipse plugin ObjectAid
